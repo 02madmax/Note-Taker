@@ -42,8 +42,8 @@ For additional questions, contact me:
 - Email: maxlamthach10@gmail.com
 
 ## Links
-- [GitHub Repository](
-- [Deployed Application](https://note-taker-02.herokuapp.com/)
+- [GitHub Repository](https://github.com/02madmax/Note-Taker)
+- [Deployed Application](https://note-application02-2d352f5a811b.herokuapp.com/)
 
 ## Screenshots
 ![Screenshot](./public/assets/images/screenshot1.png)
