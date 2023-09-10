@@ -6,7 +6,7 @@ module.exports = function(app) {
     res.sendFile(path.join(__dirname, '../public/notes.html'));
   });
   //home page get route
-  app.get('*', (req, res) => {
+  app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '../public/index.html'));
   });
 };
